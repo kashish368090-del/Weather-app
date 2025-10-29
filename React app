@@ -1,0 +1,6 @@
+npx create-react-app weather-app
+cd weather-app
+npm start
+
+
+---
